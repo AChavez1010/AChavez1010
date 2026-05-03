@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome !! My name is Alex </h1>
-<h3 align="center">I am a Full Stack Engineer from Orange County, California looking to take over the WORLD</h3>
+<h3 align="center">I am a Full Stack Engineer from OC, California looking to take over the WORLD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AChavez1010&label=Profile%20views&color=0e75b6&style=flat" alt="AChavez1010" /> </p>
 
