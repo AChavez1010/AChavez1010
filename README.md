@@ -15,13 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [TOP SECRET]
 
-- 📝 I regularly write articles on [in my notes app]
-
 - 💬 Ask me about **Anything your mind can think of**
 
 - 📫 How to reach me **soicychavez@outlook.com**
-
-- 📄 Know about my experiences [I have done it ALL]
 
 - ⚡ Fun fact **Just a small time dude doing BIG time things.**
 
